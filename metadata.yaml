@@ -1,0 +1,39 @@
+_repo: The-Best-Short-Stories-of-1917and-the-Yearbook-of-the-American-Short-Story_20872
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: O'Brien, Edward Joseph Harrington
+    alias: Harrington, Joseph F.
+    birthdate: 1890
+    deathdate: 1941
+    gutenberg_agent_id: '3022'
+    url: http://www.gutenberg.org/2009/agents/3022
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Joseph_Harrington_O'Brien
+description: ''
+gutenberg_issued: '2007-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20872'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American fiction -- 20th century'
+- !lcsh 'Short stories, American'
+tableOfContents: Excursion / Edwina Stanton Babcock -- Onnie / Thomas Beer -- Cup
+  of tea / Maxwell Struthers Burt -- Lonely places / Francis Buzzell -- Boys will
+  be boys / Irvin S. Cobb -- Laughter / Charles Caldwell Dobie -- Emperor of Elam
+  / H.G. Dwight -- Gay old dog / Edna Ferber -- Knight's move / Katharine Fullerton
+  Gerould -- Jury of her peers / Susan Glaspell -- Bunker mouse / Frederick Stuart
+  Greene -- Rainbow Pete / Richard Matthews Hallet -- Get ready the wreaths / Fannie
+  Hurst -- Strange looking man / Fanny Kemble Johnson --Caller in the night / Burton
+  Kline -- Interval / Vincent O'Sullivan -- Certain rich man / Lawrence Perry -- Path
+  of glory / Mary Brecht Pulver -- Ching, ching, chinaman / Wilbur Daniel Steele --
+  None so blind / Mary Synon.
+title: The Best Short Stories of 1917, and the Yearbook of the American Short Story
+url: http://www.gutenberg.org/ebooks/20872
